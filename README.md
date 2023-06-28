@@ -30,5 +30,5 @@ Hi 👋 I am Tuan Anh<br>I'm a final year student at Hanoi University of Civil E
 ![](https://github-profile-trophy.vercel.app/?username=tuananh37201&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=tuananh37201&icon=5&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=tuananh37201&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
