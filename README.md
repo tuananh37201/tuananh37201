@@ -35,6 +35,7 @@ Hi 👋 I am Tuan Anh<br>I'm a final year student at Hanoi University of Civil E
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 </div>
 
+--
 [![](https://visitcount.itsvg.in/api?id=tuananh37201&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 
