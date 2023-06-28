@@ -26,9 +26,6 @@ Hi 👋 I am Tuan Anh<br>I'm a final year student at Hanoi University of Civil E
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tuananh37201&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=tuananh37201&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
-
 
 
 # 💻 Tech Stack:
@@ -38,6 +35,7 @@ Hi 👋 I am Tuan Anh<br>I'm a final year student at Hanoi University of Civil E
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
 </div>
 
+[![](https://visitcount.itsvg.in/api?id=tuananh37201&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 
 
