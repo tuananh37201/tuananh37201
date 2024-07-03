@@ -1,42 +1,28 @@
-# 💫 About Me:
-Hi 👋 I am Tuan Anh<br>I'm a final year student at Hanoi University of Civil Engineering. I'm learning to make games with Unity<br><br>
+<h1 align="center">Hi 👋, I'm Le Tuan Anh</h1>
+<h3 align="center">One is learning to become a Unity developer</h3>
 
-😄 My Pronouns: He/Him
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tuananh37201&label=Profile%20views&color=0e75b6&style=flat" alt="tuananh37201" /> </p>
 
-⚡ Fun fact: I enjoy cooking
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tuananh37201" alt="tuananh37201" /></a> </p>
 
-🎂 BirthDay: 03/07/2001
+- 👨‍💻 All of my projects are available at [https://github.com/tuananh37201](https://github.com/tuananh37201)
 
-🗺️ Country: Viet Nam
+- 📫 How to reach me **tuananh37201@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/14Zleg-CUadLMEc3w0144x3X_xPnQM9Yt/view?usp=sharing](https://drive.google.com/file/d/14Zleg-CUadLMEc3w0144x3X_xPnQM9Yt/view?usp=sharing)
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/tuấn anh lê" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tuấn anh lê" height="30" width="40" /></a>
+<a href="https://fb.com/tuananh372001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tuananh372001" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/tuấn anh lê" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tuấn anh lê" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/mTb8mzrC) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100004575855017) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/tuananh37201) 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tuananh37201&show_icons=true&locale=en&layout=compact" alt="tuananh37201" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tuananh37201&show_icons=true&locale=en" alt="tuananh37201" /></p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tuananh37201&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=tuananh37201&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tuananh37201&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=tuananh37201&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
-
-
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)  ![UNITY](https://img.shields.io/badge/Unity-%2320232a.svg?style=for-the-badge&logo=unity&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-
-#
-<div id="header" align="left">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
-</div>
-
-[![](https://visitcount.itsvg.in/api?id=tuananh37201&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
-
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tuananh37201&" alt="tuananh37201" /></p>
