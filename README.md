@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **tuananh37201@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14Zleg-CUadLMEc3w0144x3X_xPnQM9Yt/view?usp=sharing](https://drive.google.com/file/d/14Zleg-CUadLMEc3w0144x3X_xPnQM9Yt/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/149YD43DrEIP6-D1x3AmmAyPOQXOBOETi/view?usp=drive_link](https://drive.google.com/file/d/149YD43DrEIP6-D1x3AmmAyPOQXOBOETi/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
