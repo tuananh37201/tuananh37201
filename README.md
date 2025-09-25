@@ -1,28 +1,42 @@
-<h1 align="center">Hi 👋, I'm Le Tuan Anh</h1>
-<h3 align="center">One is learning to become a Unity developer</h3>
+<h1 align="center">Hey 👋What's Up?</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tuananh37201&label=Profile%20views&color=0e75b6&style=flat" alt="tuananh37201" /> </p>
+###
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tuananh37201" alt="tuananh37201" /></a> </p>
+<div align="center">
+  [![Mobile App](https://skillicons.dev/icons?i=dart,flutter)](https://skillicons.dev)
+  [![Web](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)
+  [![Game Dev](https://skillicons.dev/icons?i=cs,unity)](https://skillicons.dev)
+  [![Version control](https://skillicons.dev/icons?i=git,github,bitbucket)](https://skillicons.dev)
+  [![Etc](https://skillicons.dev/icons?i=discordjs,blender,)](https://skillicons.dev)
+</div>
 
-- 👨‍💻 All of my projects are available at [https://github.com/tuananh37201](https://github.com/tuananh37201)
+###
 
-- 📫 How to reach me **tuananh37201@gmail.com**
+<div align="left">
+  <a href="https://discord.gg/Jxr55fVN7Q" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="discord logo"  />
+  </a>
+  <a href="https://www.facebook.com/tuananh372001/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="facebook logo"  />
+  </a>
+  <a href="mailto:tuananh37201@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="gmail logo"  />
+  </a>
+</div>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/149YD43DrEIP6-D1x3AmmAyPOQXOBOETi/view?usp=drive_link](https://drive.google.com/file/d/149YD43DrEIP6-D1x3AmmAyPOQXOBOETi/view?usp=drive_link)
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/tuấn-anh-lê-02469b26a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tuấn-anh-lê-02469b26a" height="30" width="40" /></a>
-<a href="https://fb.com/tuananh372001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tuananh372001" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UC79Yq8WmmN42RdBhqSNCIig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@tuananhle-ts9hj" height="30" width="40" /></a>
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tuananh37201&show_icons=true&locale=en&layout=compact" alt="tuananh37201" /></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tuananh37201&show_icons=true&locale=en" alt="tuananh37201" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tuananh37201&" alt="tuananh37201" /></p>
+###
