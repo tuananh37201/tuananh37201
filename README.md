@@ -3,20 +3,11 @@
 ###
 
 <div align="center">
-  Mobile App
   
   [![Mobile App](https://skillicons.dev/icons?i=dart,flutter)](https://skillicons.dev)
-
-  Web <br>
   [![Web](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)
-
-  Gane Dev
   [![Game Dev](https://skillicons.dev/icons?i=cs,unity)](https://skillicons.dev)
-
-  Version control
   [![Version control](https://skillicons.dev/icons?i=git,github,bitbucket)](https://skillicons.dev)
-
-  Etc
   [![Etc](https://skillicons.dev/icons?i=discordjs,blender)](https://skillicons.dev)
 </div>
 
